@@ -1,4 +1,5 @@
 body {
+  font-family: "Roboto", serif;
   height: 100vh;
 }
 
@@ -26,7 +27,6 @@ button {
   font-size: 18px;
   background: #1F2937;
   color: white;
-  outline: 2px solid red;
   padding: 0 200px 100px;
   height: 50vh;
   display: flex;
@@ -78,3 +78,47 @@ button {
 .first-main img {
   flex: 1;
 }
+
+/*Second section*/
+.second-section {
+  margin-top: 20px;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.second-section h1 {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
+}
+
+.group-items {
+  width: 60%;
+  display: flex;
+  align-items: space-between;
+}
+
+.illustration {
+  border: 4px solid #3882F6;
+  border-radius: 10px;
+  height: 150px;
+  width: 150px;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+}
+
+.item p {
+  font-size: 18px;
+  width: 80%;
+  text-align: center;
+}
+
+
+
+
+
