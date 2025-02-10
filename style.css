@@ -171,3 +171,26 @@ button {
   align-self: center;
 }
 
+/*Footer  */
+footer {
+  height: 15vh;
+  background: #1F2937;
+  color: white;
+  text-align: center;
+}
+
+footer p {
+  padding-top: 7.5vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
