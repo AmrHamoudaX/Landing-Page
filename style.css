@@ -118,7 +118,26 @@ button {
   text-align: center;
 }
 
+/*Third Section*/
+.third-section {
+  height: 50vh;
+  padding: 0px 300px;
+  background: #E5E7EB;
+  color: #1F2937;
+  font-size: 36px;
+  font-weight: 250;
+  font-style: italic;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
-
-
+.author {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  width: 70%;
+  text-align: right;
+}
 
