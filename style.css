@@ -38,6 +38,7 @@ button {
 }
 
 .header {
+  margin-top: 20px;
   display: flex;
   justify-content: space-between;
 }
@@ -62,6 +63,7 @@ button {
 }
 
 .first-left {
+  margin-top: 50px;
   color: #E5E7EB;
   flex: 1;
 }
@@ -74,8 +76,12 @@ button {
 }
 
 .first-left p {
-  margin-top: 0px;
-  width: 90%;
+  margin-top: 5px;
+  width: 85%;
+}
+
+.first-left button {
+  margin-top: 15px;
 }
 
 .first-main img {
