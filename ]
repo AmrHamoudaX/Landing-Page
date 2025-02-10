@@ -95,6 +95,7 @@ button {
   display: flex;
   align-items: center;
   flex-direction: column;
+  gap: 20px;
 }
 
 .second-section h1 {
@@ -105,18 +106,17 @@ button {
 }
 
 .group-items {
-  margin-top: 30px;
-  width: 50%;
+  margin-top: 20px;
+  width: 60%;
   display: flex;
   align-items: space-between;
-  gap: 50px;
 }
 
 .illustration {
   border: 4px solid #3882F6;
   border-radius: 10px;
-  height: 160px;
-  width: 160px;
+  height: 150px;
+  width: 150px;
 }
 .item {
   display: flex;
@@ -125,6 +125,7 @@ button {
 
 .item p {
   font-size: 18px;
+  width: 80%;
   text-align: center;
 }
 
