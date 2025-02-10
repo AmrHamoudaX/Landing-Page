@@ -173,6 +173,7 @@ button {
   margin: 0px;
 }
 .left-fourth p {
+  color: #E5E7EB;
   margin-top: 0px;
 }
 
@@ -183,14 +184,14 @@ button {
 
 /*Footer  */
 footer {
-  height: 15vh;
+  height: 12vh;
   background: #1F2937;
-  color: white;
+  color: #E5E7EB;
   text-align: center;
 }
 
 footer p {
-  padding-top: 7.5vh;
+  padding-top: 5vh;
 }
 
 
